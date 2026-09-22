@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+data/
+playwright-report/
+test-results/
+artifacts/
+coverage/
+.vitest/
+junit.xml
+coverage-final.json
+*.log
+.DS_Store
